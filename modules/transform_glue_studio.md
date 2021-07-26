@@ -23,7 +23,7 @@ In this lab, We will do the same ETL process like [Transform Data with AWS Glue]
 
 But This time We will leverage visual graphical interface in AWS Glue Studio!
 
-## Learning outcomes from this workshop?
+## Learning outcomes from this workshop? 2
 Use AWS Glue Data Studio, a graphical interface that makes it easy to create, run, and monitor extract, transform, and load (ETL) jobs in AWS Glue.
 
 ---
